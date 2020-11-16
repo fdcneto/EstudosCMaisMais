@@ -19,7 +19,7 @@ int main(){
 	raiz = sqrt(num1);
 
 	cout << "\nA raiz quadrada de " << num1 << " é = " << raiz << endl;
-    cout << "\n";
+    	cout << "\n";
 
 	system("pause");
 	return 0;
